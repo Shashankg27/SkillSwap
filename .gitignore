@@ -5,6 +5,7 @@
 /backend/.env
 /frontend/.env
 
+.vscode
 .vscode/*
 !.vscode/extensions.json
 .idea
