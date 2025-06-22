@@ -1,0 +1,16 @@
+/backend/node_modules
+/frontend/node_modules
+/backend/dist
+/frontend/dist
+/backend/.env
+/frontend/.env
+
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
