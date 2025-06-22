@@ -10,7 +10,6 @@ import Footer from './partials/Footer'
 const LandingPage = () => {
   return (
     <div>
-        Hello
       <LandingNav />
       <Hero />
       <Working />
